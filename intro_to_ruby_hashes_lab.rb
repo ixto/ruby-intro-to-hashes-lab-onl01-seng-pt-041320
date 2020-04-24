@@ -6,8 +6,8 @@ def actor
   actor = {name:"Dwayne The Rock Johnson"}
 end
 
-def monopoly 
-  :railroads=> {}
+def monopoly
+     railroads: {}
    
 
 end
